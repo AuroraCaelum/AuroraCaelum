@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @dev-by-david
+- 👋 Hi, I’m @AuroraCaelum
+- I'm a ***Korean*** 🇰🇷 studying in ***Singapore*** 🇸🇬
 <!--- - 👀 I’m interested in --->
-- 🌱 I’m currently learning in Singapore Institute of Management, Diploma in Information Technology
+- 🌱 I’m currently learning in SIM Global Education, Diploma in Information Technology.
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 Please send direct message to @minseo_dev_ (Instagram)
 
