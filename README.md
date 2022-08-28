@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @AuroraCaelum
-- I'm a ***Korean*** 🇰🇷 studying in ***Singapore*** 🇸🇬
+- 👋 Hi, I’m @AuroraCaelum 🇰🇷
 <!--- - 👀 I’m interested in --->
-- 🌱 I’m currently learning in SIM Global Education, Diploma in Information Technology.
+- 🌱 Studying Diploma in Information Technology in SIM Global Education 🇸🇬
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 Please send direct message to @minseo_dev_ (Instagram)
 
