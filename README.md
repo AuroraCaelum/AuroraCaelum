@@ -5,6 +5,7 @@
 - 🌱 Studying Diploma in Information Technology in SIM Global Education 🇸🇬
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 Please send direct message to @minseo_dev_ (Instagram)
+- [Private Organization (Well, actually for toy project)](https://github.com/YEJIN-DEV)
 
 <!---
 dev-by-david/dev-by-david is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
