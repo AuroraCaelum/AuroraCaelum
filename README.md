@@ -4,7 +4,7 @@
 <!--- - 👀 I’m interested in --->
 - 🌱 Studying Diploma in Information Technology in SIM Global Education 🇸🇬
 <!--- - 💞️ I’m looking to collaborate on ... --->
-- 📫 Please send direct message to @minseo_dev_ (Instagram)
+- 📫 Please send direct message to [@minseo_dev_](https://instagram.com/minseo_dev_) (Instagram)
 - [Private Organization (Well, actually for toy project)](https://github.com/YEJIN-DEV)
 
 <!---
