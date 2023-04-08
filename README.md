@@ -4,7 +4,7 @@
 <!--- - 👀 I’m interested in --->
 - 🌱 Studying Bachelor of Computer Science in SIM Global Education-University of Wollongong 🇸🇬🇦🇺
 <!--- - 💞️ I’m looking to collaborate on ... --->
-- 📫 Please send direct message to [@minseo_dev_](https://instagram.com/AuroraCaelum) (Instagram)
+- 📫 Please send direct message to [@AuroraCaelum](https://instagram.com/AuroraCaelum) (Instagram)
 - [Private Organization (Well, actually for toy project)](https://github.com/YEJIN-DEV)
 
 <!---
