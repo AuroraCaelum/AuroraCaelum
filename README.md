@@ -6,7 +6,9 @@
 
 - 👋 Hi, I’m @AuroraCaelum 🇰🇷
 <!--- - 👀 I’m interested in --->
-- 🌱 Studying Bachelor of Computer Science in SIM Global Education-University of Wollongong 🇸🇬🇦🇺
+- 📚 Finish studying in:
+  - Diploma in Information Technology (at SIM Global Education, Singapore 🇸🇬)
+  - Bachelor of Computer Science (at University of Wollongong, Australia 🇦🇺)
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 Please send direct message to [@aurora.caelum](https://instagram.com/aurora.caelum) (Instagram)
 - [Private Organization (Well, actually for toy project)](https://github.com/YEJIN-DEV)
