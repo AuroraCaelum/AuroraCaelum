@@ -9,6 +9,7 @@
 - 📚 Finish studying in:
   - Diploma in Information Technology (at SIM Global Education, Singapore 🇸🇬)
   - Bachelor of Computer Science (at University of Wollongong, Australia 🇦🇺)
+- 📚 Currently studying in:
   - Master of Computing in Artificial Intelligence (at National University of Singapore, Singapore 🇸🇬)
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 Please send direct message to [@aurora.caelum](https://instagram.com/aurora.caelum) (Instagram)
