@@ -7,10 +7,10 @@
 - 👋 Hi, I’m @AuroraCaelum 🇰🇷
 <!--- - 👀 I’m interested in --->
 - 📚 Finish studying in:
-  - Diploma in Information Technology (at SIM Global Education, Singapore 🇸🇬)
-  - Bachelor of Computer Science (at University of Wollongong, Australia 🇦🇺)
+  - Diploma in Information Technology (SIM Global Education, Singapore 🇸🇬)
+  - Bachelor of Computer Science with Distinction (University of Wollongong, Australia 🇦🇺)
 - 📚 Currently studying in:
-  - Master of Computing in Artificial Intelligence (at National University of Singapore, Singapore 🇸🇬)
+  - Master of Computing in Artificial Intelligence (National University of Singapore, Singapore 🇸🇬)
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 Please send direct message to [@aurora.caelum](https://instagram.com/aurora.caelum) (Instagram)
 - [Private Organization (for toy projects)](https://github.com/YEJIN-DEV)
