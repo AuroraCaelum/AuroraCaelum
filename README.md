@@ -4,7 +4,7 @@
 <div align="center">
   <h2>Contact Me</h2>
   <a href="https://www.instagram.com/AuroraCaelum"><img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=Instagram" /></a>
-  <a href="mailto:e1616029@u.nus.edu"><img src="https://img.shields.io/badge/Email-004788?style=for-the-badge&logo=mail.com" /></a>
+  <a href="mailto:auroracaelum.yun@gmail.com"><img src="https://img.shields.io/badge/Email-F3F3F3?style=for-the-badge&logo=gmail" /></a>
   
   <h2>Tech Stacks</h2>
   <p>
